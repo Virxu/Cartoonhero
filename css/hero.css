@@ -12,8 +12,9 @@ header {
 	padding-top: 50px;
 }
 
+
 h1{
-	font-family: 'Sarina', cursive;
+	font-family: 'Leckerli One', cursive;
 }
 
 h2{
@@ -24,9 +25,8 @@ h2{
 
 header h1{
 	color: white;
-	font-size: 50px
-	font-family: 'Sarina', cursive;
-
+	font-size: 60px;
+	font-family: 'Leckerli One', cursive;
 }
 
 header img{
@@ -56,6 +56,14 @@ p{
 	font-size: 15px;
 
 }
+
+ol{
+ font-size: 15px;
+ }
+
+ ul{
+  font-size: 18px;	
+ }
 
 a{
 	color: #6F0719;
