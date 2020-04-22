@@ -12,7 +12,11 @@ header {
 	padding-top: 50px;
 }
 
-h1, h2{
+h1{
+	font-family: 'Rammetto One', cursive;
+}
+
+h2{
 	font-family: 'Jua', sans-serif;
 }
 
@@ -48,7 +52,8 @@ h2{
 }
 
 p{
-	font-size: 20px;
+	font-size: 15px;
+
 }
 
 a{
